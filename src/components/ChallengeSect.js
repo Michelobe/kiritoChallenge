@@ -6,7 +6,7 @@ export default class ChallengeSect extends Component{
         this.state = {}
     }
 
-    componentWillMount(){
+    UNSAFE_componentWillMount(){
         this.setState({
             boxes: [
                 {

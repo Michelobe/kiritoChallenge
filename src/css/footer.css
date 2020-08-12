@@ -1,4 +1,13 @@
 .footer{
-    color: white;
+    color: yellow;
     font-size: 2rem;
+    font-weight: 700;
+}
+.footer h1 a{
+    text-decoration: none;
+    color: yellow;
+    font-weight: 700;
+}
+.footer h1 a:hover{
+    color: blue;
 }

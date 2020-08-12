@@ -9,7 +9,7 @@ export default class Footer extends Component {
     render(){
         return(
             <div className = {'footer'}>
-                <h1>Checkout the gitHub Code! <a href = {'#'}>hahahahaha</a></h1>
+                <h1>Checkout the gitHub Code! <a href = {'https://github.com/Michelobe/kiritoChallenge'}>KIRITO CHALLENGE</a></h1>
             </div>
         );
     };
