@@ -1,0 +1,13 @@
+@import './reset.css';
+@import './header.css';
+@import './challengeSect.css';
+@import './footer.css';
+
+.App {
+  text-align: center;
+  background: url("https://img.kelbymediagroup.com/planetphotoshop/uploads/2009/07/tron.jpg") center center no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
